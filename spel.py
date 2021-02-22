@@ -8,5 +8,6 @@ import random
 ## find food, water and shelter.
 ## find a weapon and tools to make a fire and build shelter
 ## goal of game - getting of the island. by helicopter, build a raft or by boat. or die
-
 ##You wake up washed ashore on a desert island, with no recollection of how you ended up here. 
+
+## Min Fork
